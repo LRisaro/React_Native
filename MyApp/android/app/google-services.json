@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868779799459",
+    "firebase_url": "https://desafio-signin.firebaseio.com",
+    "project_id": "desafio-signin",
+    "storage_bucket": "desafio-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868779799459:android:6202c344c31b7292cea016",
+        "android_client_info": {
+          "package_name": "com.desafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868779799459-jjr489oeqkr8gghcjsv7ormo66625dbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desafio",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "868779799459-uktpa0gpvv8vm3vb85ml7rq7v2o3ufau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg36MZtYT2n1ywUgh7uEzf4U28Bf3qb7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868779799459-uktpa0gpvv8vm3vb85ml7rq7v2o3ufau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
